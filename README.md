@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+## :globe_with_meridians: Deploy no Vercel:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://to-do-list-three-amber.vercel.app/">To-Do-List</a>
 
-## Available Scripts
+## 📚 Tecnologias Usadas no Projeto:
 
-In the project directory, you can run:
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### `npm start`
+## 🚀 Instalando To-Do-List
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Para instalar o projeto, siga estas etapas:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+git clone git@github.com:LucasCavalheri/to-do-list.git
+```
 
-### `npm test`
+* Entre na pasta que você acabou de clonar.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Abra o terminal e digite:
 
-### `npm run build`
+```
+npm install (ou npm i)
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Executando o Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para abrir o projeto no navegador, digite:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `npm run eject`
+## 🤝 Feedbacks
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Caso queria dar um feedback, pode me mandar mensagem no meu <a href="https://www.linkedin.com/in/lucas-cavalheri/">LinkedIn.</a>
