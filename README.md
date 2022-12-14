@@ -1,3 +1,5 @@
+*Projeto ainda com funcionalidades a serem implementadas*
+
 ## :globe_with_meridians: Deploy no Vercel:
 
 <a href="https://to-do-list-three-amber.vercel.app/">To-Do-List</a>
